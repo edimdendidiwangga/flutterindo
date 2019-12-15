@@ -1,0 +1,4 @@
+#Tue Oct 22 05:06:00 WIB 2019
+base.0=/home/ss/Documents/flutterindo/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
